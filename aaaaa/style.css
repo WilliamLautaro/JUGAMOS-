@@ -1,0 +1,22 @@
+* { 
+   margin: 0; 
+   padding: 0;
+}
+body{ 
+    background-color: #202020;
+
+}
+h1{ 
+    color: darkred;
+    font-size: 6em;
+    text-align: center;
+}
+.anchor {
+    color: white;
+    font-size: 40px;
+}
+.contenedor {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
